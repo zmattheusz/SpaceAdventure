@@ -1,0 +1,3 @@
+Ricardo:10
+Ricardo:35
+Ricardo:30
